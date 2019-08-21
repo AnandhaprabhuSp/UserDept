@@ -5,6 +5,7 @@ import UserTable from "./components/UserTable";
 function App() {
   return (
     <div className="App">
+      {/* UserTable is the component */}
       <UserTable />      
     </div>
   );
