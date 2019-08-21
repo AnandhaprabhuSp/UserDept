@@ -1,0 +1,27 @@
+[
+    {
+        "Maths": [
+            "m1",
+            "m2",
+            "m3",
+            "m4"
+        ],
+        "Physics": [
+            "p1",
+            "p2"
+        ],
+        "Chemistry": [
+            "c1",
+            "c2"
+        ],
+        "Biology": [
+            "B1",
+            "B2",
+            "B3"
+        ],
+        "English":[
+            "eng1",
+            "eng2"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "users":[
+        {
+            "name": "User One",
+            "subjects": [
+                "Maths",
+                "Physics",
+                "Chemistry"
+            ]
+        },
+        {
+            "name": "User Two",
+            "subjects": [
+                "Maths",
+                "Physics",
+                "Chemistry",
+                "English"
+            ]
+        },
+        {
+            "name": "User Three",
+            "subjects": [
+                "Maths",
+                "Physics"
+            ]
+        },
+        {
+            "name": "User Four",
+            "subjects": [
+                "Maths",
+                "Physics",
+                "Biology"
+            ]
+        }
+    ]
+}
